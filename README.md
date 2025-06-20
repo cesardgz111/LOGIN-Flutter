@@ -1,16 +1,22 @@
-# login_app
+# 📱 LOGIN-Flutter
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter que implementa una interfaz básica de inicio de sesión con validaciones. Ideal como punto de partida para apps más complejas que requieren autenticación de usuarios.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Características
 
-A few resources to get you started if this is your first Flutter project:
+- Interfaz de login limpia y responsiva
+- Validación de campos (correo, contraseña)
+- Organización de código por carpetas (modelo, vista, controlador)
+- Listo para extender con autenticación Firebase u otros servicios
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Instalación
+
+```bash
+git clone https://github.com/cesardgz111/LOGIN-Flutter.git
+cd LOGIN-Flutter
+flutter pub get
+flutter run
